@@ -19,9 +19,8 @@
 		<link rel="stylesheet" href="./Kartik Tyagi - The story of Ups and Downs_files/owl.theme.default.min.css">
 		<link rel="stylesheet" href="./Kartik Tyagi - The story of Ups and Downs_files/jquery.animatedheadline.css">
 		<link rel="stylesheet" href="./Kartik Tyagi - The story of Ups and Downs_files/font-awesome/css/font-awesome.min.css">
-        <link rel="stylesheet" href="./Kartik Tyagi - The story of Ups and Downs_files/font-awesome/less/icons.less">
-        <link rel="stylesheet" href="css/font-awesome.min.css">
         
+
 		
 		<!-- CSS Base -->
         <link rel="stylesheet" class="back-color" href="./Kartik Tyagi - The story of Ups and Downs_files/style-dark.css">
@@ -147,10 +146,10 @@
     <img src="./Kartik Tyagi - The story of Ups and Downs_files/3.JPG"  alt="demo1_2">
   </li>
   <li title="And this is some very long caption for slide 3. Yes, really long.">
-    <img src="./Kartik Tyagi - The story of Ups and Downs_files/3.jpg" alt="demo1_3">
+    <img src="./Kartik Tyagi - The story of Ups and Downs_files/1.JPG" alt="demo1_3">
   </li>
   <li title="And this is some very long caption for slide 4.">
-    <img src="./Kartik Tyagi - The story of Ups and Downs_files/4.jpg" alt="demo1_4">
+    <img src="./Kartik Tyagi - The story of Ups and Downs_files/2.JPG" alt="demo1_4">
   </li>
 </ul>				
 
@@ -667,9 +666,9 @@
 						</div>
 					</div>
 				
-					<!-- Skills Row Start -->
+				<!-- Skills Row Start -->
 					<div class="row mt-100">
-					
+
 						<!-- Header Block -->
 						<div class="col-md-12">
 							<div class="header-box mb-50">
@@ -677,14 +676,14 @@
 							</div>
 						</div>
 					</div>
-					
-					<div class="box skills">
+
+					<div class="box-1 skills">
 						<div class="row">
 							<div class="col-lg-6 col-sm-6">
 
 								<!-- Skill Item -->
 								<div class="skill-item">
-									<h4 class="progress-title">AWS</h4>
+									<h4 class="progress-title">HTML5</h4>
 									<div class="progress">
 										<div class="progress-bar" style="width:98%">
 											<div class="progress-value">98%</div>
@@ -694,7 +693,7 @@
 
 								<!-- Skill Item -->
 								<div class="skill-item">
-									<h4 class="progress-title">IBM Cloud</h4>
+									<h4 class="progress-title">CSS3</h4>
 									<div class="progress">
 										<div class="progress-bar" style="width:85%">
 											<div class="progress-value">85%</div>
@@ -704,20 +703,20 @@
 
 								<!-- Skill Item -->
 								<div class="skill-item">
-									<h4 class="progress-title">JavaScript &amp; Python</h4>
+									<h4 class="progress-title">JavaScript</h4>
 									<div class="progress">
 										<div class="progress-bar" style="width:90%">
 											<div class="progress-value">90%</div>
 										</div>
 									</div>
 								</div>
-							
+
 								<!-- Skill Item -->
 								<div class="skill-item">
-									<h4 class="progress-title">Docker and CI/CD</h4>
+									<h4 class="progress-title">UI/UX designer</h4>
 									<div class="progress">
-										<div class="progress-bar" style="width:80%">
-											<div class="progress-value">80%</div>
+										<div class="progress-bar" style="width:77%">
+											<div class="progress-value">77%</div>
 										</div>
 									</div>
 								</div>
@@ -725,31 +724,31 @@
 
 							<div class="col-lg-6 col-sm-6">
 								<div class="row">
-									
+
 									<!-- Skill Item -->
 									<div class="col-lg-6 col-sm-6">
-										<div class="chart" data-percent="80" data-bar-color="#fff"> 80% <p>Chef</p><canvas height="162" width="162" style="height: 130px; width: 130px;"></canvas></div>
+										<div class="chart" data-percent="80" data-bar-color="#fff"> 80% <p>PHP</p><canvas height="162" width="162" style="height: 130px; width: 130px;"></canvas></div>
 									</div>
-									
+
 									<!-- Skill Item -->
 									<div class="col-lg-6 col-sm-6">
-										<div class="chart" data-percent="70" data-bar-color="#fff"> 70% <p>IAAS</p><canvas height="162" width="162" style="height: 130px; width: 130px;"></canvas></div>
+										<div class="chart" data-percent="70" data-bar-color="#fff"> 70% <p>Illustrator</p><canvas height="162" width="162" style="height: 130px; width: 130px;"></canvas></div>
 									</div>
-									
+
 									<!-- Skill Item -->
 									<div class="col-lg-6 col-sm-6">
-										<div class="chart" data-percent="60" data-bar-color="#fff"> 50% <p>OpenStack</p><canvas height="162" width="162" style="height: 130px; width: 130px;"></canvas></div>
+										<div class="chart" data-percent="60" data-bar-color="#fff"> 60% <p>Photoshop</p><canvas height="162" width="162" style="height: 130px; width: 130px;"></canvas></div>
 									</div>
-									
+
 									<!-- Skill Item -->
 									<div class="col-lg-6 col-sm-6">
-										<div class="chart" data-percent="90" data-bar-color="#fff"> 90% <p>Containers</p><canvas height="162" width="162" style="height: 130px; width: 130px;"></canvas></div>
+										<div class="chart" data-percent="90" data-bar-color="#fff"> 90% <p>AngularJS</p><canvas height="162" width="162" style="height: 130px; width: 130px;"></canvas></div>
 									</div>
 								</div>
 							</div>
 						</div>
 					</div>
-				
+
 					<!-- Work Process Row Start -->
 					<div class="row mt-100">
 					
@@ -830,7 +829,7 @@
 								<li class="active" data-filter="*">All</li>
 								<li data-filter=".brand">Brand</li>
 								<li data-filter=".design">Design</li>
-								<li data-filter=".graphic">Graphic</li>
+								<li data-filter=".graphic">Full Stack</li>
 							</ul>
 						</div>
 					</div>
@@ -843,8 +842,8 @@
 							<figure style="will-change: transform; transform: perspective(300px) rotateX(0deg) rotateY(0deg);">
 								<img alt="" src="./Kartik Tyagi - The story of Ups and Downs_files/img-1.jpg">
 								<figcaption>
-									<h3>Shortto</h3>
-									<p>Graphic</p><i class="fa fa-image"></i>
+									<h3>Kraftree</h3>
+									<p>Start-up</p><i class="fa fa-image"></i>
 									<a class="image-link" href="./Kartik Tyagi - The story of Ups and Downs_files/img-1.jpg"></a>
 								</figcaption>
 							<div class="js-tilt-glare" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; overflow: hidden; pointer-events: none;"><div class="js-tilt-glare-inner" style="position: absolute; top: 50%; left: 50%; background-image: linear-gradient(0deg, rgba(255, 255, 255, 0) 0%, rgb(255, 255, 255) 100%); width: 700px; height: 700px; transform: rotate(180deg) translate(-50%, -50%); transform-origin: 0% 0%; opacity: 0;"></div></div></figure>
@@ -916,7 +915,7 @@
 								<img alt="" src="./Kartik Tyagi - The story of Ups and Downs_files/img-7.jpg">
 								<figcaption>
 									<h3>Sushma</h3>
-									<p>Brand</p><i class="fa fa-image"></i>
+									<p>Company</p><i class="fa fa-image"></i>
 									<a class="image-link" href="./Kartik Tyagi - The story of Ups and Downs_files/img-7.jpg"></a>
 								</figcaption>
 							<div class="js-tilt-glare" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; overflow: hidden; pointer-events: none;"><div class="js-tilt-glare-inner" style="position: absolute; top: 50%; left: 50%; background-image: linear-gradient(0deg, rgba(255, 255, 255, 0) 0%, rgb(255, 255, 255) 100%); width: 700px; height: 700px; transform: rotate(180deg) translate(-50%, -50%); transform-origin: 0% 0%; opacity: 0;"></div></div></figure>
@@ -927,8 +926,8 @@
 							<figure>
 								<img alt="" src="./Kartik Tyagi - The story of Ups and Downs_files/img-8.jpg">
 								<figcaption>
-									<h3>HoopCam</h3>
-									<p>Brand</p><i class="fa fa-image"></i>
+									<h3>Sketch</h3>
+									<p>Consultancy</p><i class="fa fa-image"></i>
 									<a class="image-link" href="./Kartik Tyagi - The story of Ups and Downs_files/img-8.jpg"></a>
 								</figcaption>
 							<div class="js-tilt-glare" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; overflow: hidden; pointer-events: none;"><div class="js-tilt-glare-inner" style="position: absolute; top: 50%; left: 50%; background-image: linear-gradient(0deg, rgba(255, 255, 255, 0) 0%, rgb(255, 255, 255) 100%); width: 700px; height: 700px; transform: rotate(180deg) translate(-50%, -50%); transform-origin: 0% 0%; opacity: 0;"></div></div></figure>
@@ -978,16 +977,16 @@
                              			<div class="col-lg-12 col-sm-12 text-center">
                                 			<button type="submit" class="btn-st">Send Message</button>
                                 			<div id="loader">
-                                    			<i class="fas fa-sync"></i>
+                                    			<i class="fa fa-sync"></i>
                                 			</div>
                             			</div>
 										<div class="col-lg-12 col-sm-12">
                             				<div class="error-messages">
                                 				<div id="success">
-													<i class="far fa-check-circle"></i>Thank you, your message has been sent.
+													<i class="fa fa-check-circle"></i>Thank you, your message has been sent.
 												</div>
                                 				<div id="error">
-													<i class="far fa-times-circle"></i>Error occurred while sending email. Please try again later.
+													<i class="fa fa-times-circle"></i>Error occurred while sending email. Please try again later.
 												</div>
 											</div>
                             			</div>
@@ -1045,7 +1044,10 @@
         
 
 
-        <script >jQuery('#pictures-demo').slippry({
+        <script >jQuery('#pictures-demo')
+
+
+        .slippry({
   // general elements & wrapper
   slippryWrapper: '<div class="sy-box pictures-slider" />', // wrapper to wrap everything, including pager
 
